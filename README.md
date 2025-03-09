@@ -1,5 +1,7 @@
 # In The Dust 
-## (c) 2025, Bethany Collinge
+## By Bethany Collinge
+
+(c) 2025, Bethany Collinge
 
 A playable build of this game is available [here](https://berrio23.github.io/inthedust/).
 
