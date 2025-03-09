@@ -1,6 +1,6 @@
 # In The Dust 
 
-## By Bethany Collinge
+By Bethany Collinge
 
 (c) 2025, Bethany Collinge
 
